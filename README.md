@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Bilal.
-- 👀 I’m currently interested in CyberSecurity, Blockchain. 
-- 🌱 I’m currently learning Solidity to work on web3.0 domain
-- 💞️ I’m looking to collaborate on ... (soon)
+- 👀 Being a Freshie, Enrolled as an ASE and looking towards being a Top-tier Software Engineer, I’m currently interested in innovative ideas and ways to make them reality. 
+- 🌱 I’m currently learning Nodejs to work on MERN/Web3.0 Projects
 - 📫 How to reach me: https://www.linkedin.com/in/mbk20/
